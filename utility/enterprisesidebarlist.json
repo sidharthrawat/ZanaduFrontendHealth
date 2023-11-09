@@ -1,0 +1,39 @@
+{
+    "SidebarList":[
+        {
+          "img":"/assets/enterprise/home.svg",
+          "title":"Dashboard",
+          "path":"/dashboard"
+        },
+        {
+            "img":"/assets/enterprise/employees.svg",
+            "title":"Employees",
+            "path":"/employees"
+          },
+          {
+            "img":"/assets/enterprise/analytics.svg",
+            "title":"Analytics",
+            "path":"/analytics"
+          },
+          {
+            "img":"/assets/enterprise/account.svg",
+            "title":"Account",
+            "path":"/account"
+          },
+          {
+            "img":"/assets/enterprise/notification.svg",
+            "title":"Notification",
+            "path":"/notification"
+          },
+          {
+            "img":"/assets/enterprise/admin.svg",
+            "title":"Admin Management",
+            "path":"/admin_management"
+          }
+        
+       
+    ]
+}
+ 
+ 
+ 

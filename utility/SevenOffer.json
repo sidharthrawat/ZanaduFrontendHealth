@@ -1,0 +1,44 @@
+{
+    "SevenOffer": [
+        {
+            "title":"Yoga ",
+            "des":"Mind, Body & Soul",
+            "image":"/assets/home/yoga.svg"
+        },
+        {
+            "title":"Meditaion ",
+            "des":"Achievement Inner Peace",
+            "image":"/assets/home/meditation.svg"
+        },
+        {
+            "title":"Acupressure ",
+            "des":"Painless Healing",
+            "image":"/assets/home/acupressure.svg"
+        },
+        {
+            "title":"Nutrition ",
+            "des":"Healthy Diet & Gut",
+            "image":"/assets/home/nutrition.svg"
+        },
+        {
+            "title":"Mindset ",
+            "des":"Positive Shift",
+            "image":"/assets/home/mindset.svg"
+        },
+        {
+            "title":"Energy ",
+            "des":"Mental & Physical",
+            "image":"/assets/home/energy.svg"
+        },
+        {
+            "title":"Health ",
+            "des":"Ayurvedic Lifestyle",
+            "image":"/assets/home/health.svg"
+        }
+    ]
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+.coachesmain{
+    min-width:100%;
+    height:540px;
+    padding:50px;
+    margin-top:20px;
+}
+.coachesmainhead{
+    color:#403E3E;
+    font-size:25.032px;
+    text-align:center;
+    font-style:normal;
+    font-weight:500;
+    line-height:normal;
+}
+.coachesscroll{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    text-align:center;
+    margin-top:60px;
+    overflow-x: auto;
+
+}
+.coachesscroll::-webkit-scrollbar{
+    width: 0;
+}
+.coachesscrollitem{
+    width:240px;
+    height:300px;
+    flex-shrink: 0;
+    border-radius:16px;
+    background: var(--zanadu, linear-gradient(140deg, #25D366 5.07%, #03C0FF 117.95%));
+    margin-right:22px;
+}
+.coachesscrollitem img{
+    margin-top:45px;
+    margin-bottom:30px;
+    width:140px;
+    height:140px;
+    border-radius:50%;
+
+}
+.Uppercoach{
+    margin-bottom:5px;
+    color:#FFF;
+    font-size:15px;
+    font-style:normal;
+    font-weight:500;
+    line-height:normal;
+
+}
+.Lowercoach{
+    color:#FFF;
+    font-size:14px;
+    font-style:normal;
+    font-weight:400;
+    line-height:normal;
+}
+.linkedOne{
+    min-width:100%;
+    height:20px;
+    flex-shrink:0;
+    background: linear-gradient(93deg, rgba(3, 192, 255, 0.23) 0%, rgba(37, 211, 102, 0.19) 89%);
+}

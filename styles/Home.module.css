@@ -1,0 +1,70 @@
+.seven-offer-container {
+    width: 100%;
+    height: auto;
+    background: var(--zanadu, linear-gradient(140deg, #25D366 5.07%, #03C0FF 117.95%));
+    padding: 3rem 0rem;
+    overflow: hidden;
+}
+
+.seven-offer-header h2 {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 25.032px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.seven-offer-header p {
+    color: var(--ffffff, #FFF);
+    text-align: center;
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.seven-offer-item-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    padding-left: 6rem;
+    overflow-x: scroll;
+    /* Enable horizontal scrolling */
+    white-space: nowrap;
+    margin-top: 2rem;
+}
+
+.seven-offer-item-container::-webkit-scrollbar {
+    visibility: hidden;
+}
+
+.seven-offer-item {
+    width: calc(100%/4.4);
+    flex-basis: 20%;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.seven-offer-item h3 {
+    margin-top: 2rem;
+    color: #FFF;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.36px;
+}
+
+.seven-offer-item p {
+    color: #F9F9F9;
+    
+    font-size: 12.981px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.26px;
+}

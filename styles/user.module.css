@@ -1,0 +1,303 @@
+.demoGradientBg{
+    background: rgb(3,192,255);
+   background: linear-gradient(55deg, rgba(3,192,255,0.30015756302521013) 35%, rgba(37,211,116,0.3309698879551821) 100%);
+    padding: 64px; 
+
+
+  
+   }
+
+   .userGradientBg{
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 55.34%, #FFF 100.3%), linear-gradient(171deg, rgba(255, 255, 255, 0.00) 43.84%, rgba(37, 211, 102, 0.30) 89.13%), linear-gradient(189deg, rgba(255, 255, 255, 0.00) 21.23%, rgba(3, 192, 255, 0.12) 56.45%);
+      padding:64px;
+   }
+
+ .h2{
+    font-size: 39px; line-height: 58px;margin-top: 24px;
+ }
+
+
+
+ .inputbox{
+   height: 55px;
+   border: 1px solid #DDE2E5;
+   width: 100%;
+   border-radius: 8px;
+ }
+
+ .inputtextarea{
+   resize: none !important;
+   border: 1px solid #DDE2E5;
+   width: 100%;
+   border-radius: 8px;
+ }
+
+ .comma{
+    font-size: 39px; line-height: 38px; font-family: 'Times New Roman', Times, serif
+ }
+
+ .testimonial{
+    border-left: 1px solid #000000; padding-left: 32px;
+ }
+
+ 
+ .testimonialInnerBlock{
+    display: flex; align-items: center; 
+ }
+
+ .testimonialInnerBlockArrow{ padding-top: 16px;
+    display: flex; align-items: center;  justify-content: space-between;
+ }
+ .testimonialInnerBlockContent{
+    padding-left: 24px; padding-top: 10px;
+ }
+
+ .content{
+    font-size: 17px; line-height: 26px;
+ }
+
+ .contentTestimonial{
+    font-size: 15px; line-height: 26px; font-style: italic;
+ }
+
+ .formHeading{
+    font-weight: bold; font-size: 27px; line-height: 41px; text-align: center; color: #403E3E;
+ }
+
+ .formGreyContent{
+    font-size: 16px; line-height: 20px; color: #868788; text-align: center; padding: 0 35px; 
+ }
+
+ .formLabel{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.08em;
+text-align: left; color: #3F3F3F;
+
+ }
+
+ .btmBorder{
+    border-bottom: 12px solid #25D366; padding: 68px 0;
+ }
+
+ .btnGrad{
+    background-image: linear-gradient(to right, #03c0ff, #00caf4, #00d1d4, #00d4a3, #25d366);
+    border-radius: 200px; width: 100%; border: 0px!important; padding: 8px 35px; color: #FFFFFF; text-decoration: none!important;
+ }
+ .btnGrad2{
+    background-image: linear-gradient(to right, #03c0ff, #00caf4, #00d1d4, #00d4a3, #25d366);
+    border-radius: 200px; width: 100%; border: 0px!important; padding: 4px 35px; color: #FFFFFF; text-decoration: none!important; width: auto;
+ }
+
+
+ .btnGrad3{
+   background-image: linear-gradient(to right, #03c0ff, #00caf4, #00d1d4, #00d4a3, #25d366);
+   border-radius: 200px; width: 40%; border: 0px!important; padding: 8px 35px; color: #FFFFFF; text-decoration: none!important;
+}
+ .btnNormal{ 
+    width: auto; text-decoration: none; border: 1px solid #403E3E; border-radius: 200px;padding: 4px 35px; color:#403E3E;
+ }
+ .lightBlueGrad{
+    background-image: linear-gradient(to bottom, #f4fcff, #e1f6fe, #cdf0fc, #b7e9fb, #a1e3f9);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 32px; border-radius: 10px; min-height: 550px; margin-bottom: 24px;
+ }
+
+ .lightBlueGreen{
+    background-image: linear-gradient(to bottom, #fbfffd, #deffee, #c2ffdd, #a6ffca, #89ffb5);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 32px; border-radius: 10px; min-height: 550px;
+ }
+
+ .listBg{
+    background: url(../public/assets/demo/tick.png) left top 10px no-repeat ; padding-left: 30px; margin-bottom: 10px;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #464646;
+ }
+
+ .listNone{
+    list-style-type: none; padding: 0; margin: 0;  
+ }
+
+ .listNoneBottom{
+    list-style-type: none;  padding: 32px 0 0 0; margin: 0; min-width: 260px; max-width: 400px; 
+ }
+ .listBgBottom{
+    background: url(../public/assets/demo/tickBullet.png) left center  no-repeat ; padding-left: 42px; margin-bottom: 10px;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #464646;
+ }
+
+
+ .packageContent{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 450;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left; color: #868788; padding: 24px 0;
+
+ }
+
+ .btmGrad{
+    padding-top: 64px;
+    background-color: #FAF9FF;
+ }
+
+ .bottomContent{
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center; 
+    color: #403E3E; padding: 24px 24px 24px 24px;  margin-bottom: 48px;
+    background: url(/assets/demo/contentseperator.png) top center no-repeat , url(/assets/demo/contentseperator.png) bottom center no-repeat;
+ }
+
+ .bottomFixed{   
+    background-color: #FFFFFF;box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; padding: 6px 0px; position: fixed; bottom: 0; width: 100%;
+ }
+
+ .bottomLinks{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #25D366;
+
+    
+ }
+
+
+
+ .yogaGirlsImg{
+ background:url(/assets/star.png) ;  background-position: center center; background-repeat: no-repeat;
+
+ }
+
+
+ .wellnessText{
+   color: #01AA6C;
+
+
+background-clip: text;
+-webkit-background-clip: text; 
+font-family: Poppins;
+font-size: 28px;
+font-style: bold;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.26px;
+text-align: center;
+ }
+
+
+
+
+ .gatewayText{
+
+text-align: center;
+font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.26px;
+
+ }
+
+ .continueText{
+
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+
+ }
+
+ .popupArea{
+   position: fixed; height: 100vh; width: 100vw; background-color: rgba(0, 0, 0, 0.5); z-index: 9999999; left: 0; top: 0; overflow: hidden; display: flex; justify-content: center; align-items: center;
+ }
+
+ .containerBox{
+   /* background: rgb(37,211,102);
+   background: linear-gradient(170deg, rgba(37,211,102,1) 0%, rgba(3,192,255,1) 100%); padding: 32px; border-radius: 10px; width: 60%; margin: 0 auto; 
+  */
+
+  padding: 32px; border-radius: 10px; width: 60%; margin: 0 auto; 
+  
+  border-radius: 15px; 
+  background: var(--secondary-color-mix, linear-gradient(140deg, #25D366 5.07%, #03C0FF 117.95%));
+
+
+}
+
+ .headingPopup{
+   font-family: Poppins;
+font-size: 41px;
+font-weight: 600;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+ .blackTextPopup{
+   font-family: Poppins;
+font-size: 17px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0.005em;
+text-align: center; color: #000000; text-decoration: none;
+
+ }
+
+ .whiteTextPopup{
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 27px;
+   letter-spacing: 0em;
+   text-align: center; color: #FFFFFF;
+   
+ }
+
+ .popupContaienrInner{
+   width: 70%; margin: 0 auto;
+ }
+
+
+ .btnDull{ 
+   background-color: #D6D9DB;   border-radius: 200px; width: 100%; border: 0px!important; padding: 8px 35px; color: #FFFFFF; text-decoration: none!important;
+ 
+}
+
+.cursorPointer{
+   cursor: pointer;
+}
+
+.privacyText{
+   
+
+font-family: Poppins;
+
+}
+
+
+

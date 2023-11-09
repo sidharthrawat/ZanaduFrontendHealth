@@ -1,0 +1,16 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Iconsax/Linear/commandsquare">
+<path id="Vector" d="M14.6289 9.6H9.83288M14.6289 9.6V14.4M14.6289 9.6H16.4275C17.4166 9.6 18.226 8.79 18.226 7.8C18.226 6.81 17.4166 6 16.4275 6C15.4383 6 14.6289 6.81 14.6289 7.8V9.6ZM9.83288 9.6V14.4M9.83288 9.6H8.03436C7.04517 9.6 6.23584 8.79 6.23584 7.8C6.23584 6.81 7.04517 6 8.03436 6C9.02355 6 9.83288 6.81 9.83288 7.8V9.6ZM9.83288 14.4H14.6289M9.83288 14.4V16.2C9.83288 17.19 9.02355 18 8.03436 18C7.04517 18 6.23584 17.19 6.23584 16.2C6.23584 15.21 7.04517 14.4 8.03436 14.4H9.83288ZM14.6289 14.4H16.4275C17.4166 14.4 18.226 15.21 18.226 16.2C18.226 17.19 17.4166 18 16.4275 18C15.4383 18 14.6289 17.19 14.6289 16.2V14.4Z" stroke="url(#paint0_linear_343_2305)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M9.23351 22H15.2286C20.2245 22 22.2228 20 22.2228 15V9C22.2228 4 20.2245 2 15.2286 2H9.23351C4.23761 2 2.23926 4 2.23926 9V15C2.23926 20 4.23761 22 9.23351 22Z" stroke="url(#paint1_linear_343_2305)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_343_2305" x1="6.23584" y1="7.125" x2="18.5913" y2="21.6716" gradientUnits="userSpaceOnUse">
+<stop stop-color="#25D366"/>
+<stop offset="1" stop-color="#03C0FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_343_2305" x1="2.23926" y1="3.875" x2="22.8318" y2="28.1193" gradientUnits="userSpaceOnUse">
+<stop stop-color="#25D366"/>
+<stop offset="1" stop-color="#03C0FF"/>
+</linearGradient>
+</defs>
+</svg>

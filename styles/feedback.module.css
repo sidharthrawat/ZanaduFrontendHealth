@@ -1,0 +1,128 @@
+.clientsmain{
+    min-width:100%;
+    height:450px;
+    padding:50px 80px;
+    position:relative;
+    
+}
+.clientmainhead{
+    color:#000;
+    text-align:center;
+    font-size:25.032px;
+    font-style:normal;
+    font-weight:500;
+    line-height:normal;
+    margin-bottom:80px;
+    margin-left: 20px;
+}
+.clientsdown{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    
+}
+.upperclient{
+    width:358px;
+    height:168px;
+    flex-shrink:0;
+    border-radius: 13.427px;
+    background: linear-gradient(93deg, rgba(3, 192, 255, 0.23) 0%, rgba(37, 211, 102, 0.19) 89%);
+    box-shadow: 0px 0px 8.63182px 0.95909px rgba(0, 0, 0, 0.25);
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.innterclient{
+    min-width:338px;
+    height:148px;
+    flex-shrink:0;
+    border-radius:13.427px;
+    border: 0.959px solid var(--zanadu, #25D366);
+    background: #FFF;
+    padding:13px;
+
+}
+.upperpehra{
+    color:#000;
+    text-align:center;
+    font-size:15.348px;
+    font-style:normal;
+    font-weight:500;
+    line-height:normal;
+    margin-bottom:15px;
+    margin-top:10px;
+}
+.lowerpehra{
+    color:#000;
+    text-align:center;
+    font-size:9.866px;
+    font-style:normal;
+    font-weight:400;
+    line-height:normal;
+    
+}
+.lowerclient{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width:200px;
+    margin-top:15px;
+    border-radius: 4px;
+    height: 60px;
+    flex-shrink: 0;
+border: 1px solid rgba(134, 135, 136, 0.21);
+background: rgba(134, 135, 136, 0.15);
+
+}
+.clientimg img{
+max-width: 49.326px;
+height: 47.184px;
+flex-shrink: 0;
+margin-left: 5px;
+background: url(../public/assets/woman.png), white 50% / cover no-repeat;
+border-radius: 50%;
+
+}
+.clientimgrightp1{
+    min-width: 90.431px;
+    height: 22.609px;
+    flex-shrink: 0;
+    color: #000;
+text-align: center;
+/* font-family: Poppins; */
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.clientimgrightp2{
+    min-width: 118.177px;
+height: 20.643px;
+flex-shrink: 0;
+color: #000;    
+text-align: center;
+/* font-family: Poppins; */
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.borders{
+    position:fixed;
+    /* top:40px;
+    left:47.5vw; */
+}
+/* .lowerclient{
+    display: flex;
+    width: 200px;
+    height: 60px;
+    padding: 5px 7px 5.85px 7px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border: 1px solid red;
+} */
+
+

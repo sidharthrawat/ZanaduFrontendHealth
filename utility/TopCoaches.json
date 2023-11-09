@@ -1,0 +1,39 @@
+{
+    "TopCoaches": [
+        {
+            "name":"Emma Dua",
+            "title":"Yoga Trainer",
+            "image":"/assets/topRatedCoaches/1qualified/Ellipse 16.svg"
+        },
+        {
+            "name":"Taylor Swift ",
+            "title":"Fitness coach",
+            "image":"/assets/topRatedCoaches/2qualified/Ellipse 16.svg"
+        },
+        {
+            "name":"Anna Julianne ",
+            "title":"Health Coach",
+            "image":"/assets/topRatedCoaches/3qualified/Ellipse 16.svg"
+        },
+        {
+            "name":"Nancy Watts ",
+            "title":"Mindfulness Coach",
+            "image":"/assets/topRatedCoaches/4qualified/Ellipse 16.svg"
+        },
+        {
+            "name":"Terry Oswald ",
+            "title":"Health Coach",
+            "image":"/assets/topRatedCoaches/5qualified/Ellipse 16.svg"
+        },
+        {
+            "name":"Jennifer ",
+            "title":"Yoga Trainer",
+            "image":"/assets/topRatedCoaches/6qualified/Ellipse 16.svg"
+        }
+    ]
+}
+
+
+
+
+

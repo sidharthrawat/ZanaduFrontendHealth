@@ -1,0 +1,22 @@
+{
+    "BannerDes":[
+        {
+          "icon":"/assets/banner/CustomizedPlan.svg",
+          "title":"Customized Plan",
+          "des":"Unique customized plan curated by Health Coach to improve overall health"
+        },
+        {
+            "icon":"/assets/banner/ProInstructors.svg",
+            "title":"Pro Instructors",
+            "des":"50+ Professional Coaches from across the world"
+        },
+        {
+            "icon":"/assets/banner/QualityContent.svg",
+            "title":"Quality Content",
+            "des":"All our lessons, live sessions, camps & workshops are well panned by professional coaches"
+        }
+    ]
+}
+ 
+ 
+ 
